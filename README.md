@@ -24,5 +24,5 @@ Este proyecto se basa en el programa ["quién es quien de los precios"](https://
 
 #EJECUCIÓN
 1. Con web scrapping extraer los datos
-2. guardar los datos en un csv
+2. Guardar los datos en un csv
 3. Crear la interfaz
